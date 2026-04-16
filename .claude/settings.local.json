@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(mkdir -p /Users/masanori_yamamoto/Documents/Claude_Strategic_Intelligence/01_input/2026-04-16)",
+      "Bash(mkdir -p /Users/masanori_yamamoto/Documents/Claude_Strategic_Intelligence/02_analysis/2026-04-16)",
+      "Bash(mkdir -p /Users/masanori_yamamoto/Documents/Claude_Strategic_Intelligence/03_output/2026-04-16)",
+      "Bash(open ~/Documents/Claude_Strategic_Intelligence/03_output/2026-04-16/world_20260416.html)",
+      "Bash(open ~/Documents/Claude_Strategic_Intelligence/03_output/2026-04-16/japan_20260416.html)",
+      "Read(//Users/masanori_yamamoto/Downloads/**)",
+      "Bash(unzip -o Strategic_Intelligence_v2.zip -d ~/Documents/)",
+      "Bash(mkdir -p /Users/masanori_yamamoto/Documents/Strategic_Intelligence/01_input/2026-04-16)",
+      "Bash(mkdir -p /Users/masanori_yamamoto/Documents/Strategic_Intelligence/02_analysis/2026-04-16)",
+      "Bash(mkdir -p /Users/masanori_yamamoto/Documents/Strategic_Intelligence/03_output/2026-04-16)",
+      "Bash(open:*)"
+    ]
+  }
+}
